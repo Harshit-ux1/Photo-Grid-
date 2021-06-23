@@ -1,2 +1,2 @@
-# Photo-Grid-
-This is a photo grid project containing a bunch of photos arranged in a proper and attractive manner by proper use of Cascading Style Sheets
+# projects
+This is a photogrid project containing a bunch of images in a well organized and attractive manner by proper use of Css.
